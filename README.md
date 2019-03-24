@@ -60,3 +60,7 @@ _Preferences > General > Closing > __Uncheck__ Confirm closing... and Confirm "Q
 _Preferences > Profiles > General > Working Directory > __Select__ Reuse previous..._
 * Enable word jumping  
 _Preferences > Profiles > Keys > Load Preset... > __Select__ Natural Text..._
+4. mpv
+```sh
+brew cask install mpv
+```
