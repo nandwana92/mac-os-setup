@@ -39,3 +39,24 @@ _Finder Preferences > Advanced > __Check__ (Keep folders...)_
 
 3. Search in current folder only.  
 _Finder Preferences > Advanced > (When perf...): Search the Current Folder_
+
+#### Misc
+
+* Change location where screenshots get saved.
+```sh
+defaults write com.apple.screencapture location [location]
+killall SystemUIServer
+```
+
+#### The Apps
+
+1. Homebrew
+2. Use ZSH shell with Oh My Zsh framework
+* Explore theme for ZSH
+3. iTerm2
+* Disable close confirmation prompts  
+_Preferences > General > Closing > __Uncheck__ Confirm closing... and Confirm "Quit..._
+* Open new tab in the current directory  
+_Preferences > Profiles > General > Working Directory > __Select__ Reuse previous..._
+* Enable word jumping  
+_Preferences > Profiles > Keys > Load Preset... > __Select__ Natural Text..._
