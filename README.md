@@ -58,6 +58,8 @@ killall SystemUIServer
 _Preferences > General > Closing > __Uncheck__ Confirm closing... and Confirm "Quit..._
 * Open new tab in the current directory  
 _Preferences > Profiles > General > Working Directory > __Select__ Reuse previous..._
+* Always open in fullscreen mode  
+_Preferences > Profiles > Window > Style > __Select__ Fullscreen_
 * Enable word jumping  
 _Preferences > Profiles > Keys > Load Preset... > __Select__ Natural Text..._
 4. mpv
